@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11E6DB5C-5E73-4148-B424-B58A9C5A14B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tiles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECAAFD36-38EB-410C-91E8-ABCCE070372E</key>
+		<string>https://github.com/SathishKumarEro/DeletingAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tiles.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECAAFD36-38EB-410C-91E8-ABCCE070372E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SathishKumarEro/DeletingAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECAAFD36-38EB-410C-91E8-ABCCE070372E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECAAFD36-38EB-410C-91E8-ABCCE070372E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeletingAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>

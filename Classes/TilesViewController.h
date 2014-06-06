@@ -1,7 +1,7 @@
 //
 //  TilesViewController.h
 //  Tiles
-//
+// ..
 
 #import <UIKit/UIKit.h>
 
@@ -11,7 +11,8 @@
 
 @class Tile;
 
-@interface TilesViewController : UIViewController {
+@interface TilesViewController : UIViewController
+{
 @private
     CGRect   tileFrame[TILE_COUNT];
     Tile    *tileForFrame[TILE_COUNT];

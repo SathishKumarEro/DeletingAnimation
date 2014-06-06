@@ -7,7 +7,8 @@
 
 @class TilesViewController;
 
-@interface TilesAppDelegate : NSObject <UIApplicationDelegate> {
+@interface TilesAppDelegate : NSObject <UIApplicationDelegate>
+{
     UIWindow *window;
     TilesViewController *viewController;
 }
